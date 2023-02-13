@@ -1,0 +1,13 @@
+div {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 200px;
+    height: 200px;
+    background-color: #787878;
+    box-shadow: 102px -102px 0 0 #7cbb00,
+    -102px -102px 0 0 #f65314,
+    102px 102px 0 0 #ffbb00,
+    -102px 102px 0 0 #00a1f1;
+}
